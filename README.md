@@ -2,7 +2,7 @@
 
  To gain an analysis of face recognition systems using texture-based feature extraction and matching.
 
- - Provided with a face dataset (folder: ‘./Face Recognition/Dataset/Faces/’) that contains face images from 200 users/subjects. Each subject has 3 face image samples.
+ - Provided a face dataset (folder: Math Codes) containing face images from 200 users/subjects. Each subject has 3 face image samples.
 
  - ![image](https://github.com/user-attachments/assets/ec629f09-795c-4405-97a3-d09c3ba36776)
 
